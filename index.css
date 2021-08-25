@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
+*{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+body{
+    background-color: rgb(45, 145, 233);
+    color: rgb(30, 36, 33);
+}
+
+.list2{
+    color: brown;
+}
